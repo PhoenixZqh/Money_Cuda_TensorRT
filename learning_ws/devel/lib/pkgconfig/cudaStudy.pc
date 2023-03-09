@@ -1,0 +1,8 @@
+prefix=/home/zqh/CODE/Cuda-TensorRT/learning_ws/devel
+
+Name: cudaStudy
+Description: Description of cudaStudy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

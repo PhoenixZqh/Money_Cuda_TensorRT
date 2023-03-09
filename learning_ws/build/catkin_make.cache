@@ -1,0 +1,2 @@
+cudaStudy:tensorrtStudy:yolo_trt
+-DCATKIN_DEVEL_PREFIX=/home/zqh/CODE/Cuda-TensorRT/learning_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zqh/CODE/Cuda-TensorRT/learning_ws/install -G Unix Makefiles
